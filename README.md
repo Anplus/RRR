@@ -19,7 +19,7 @@ RFID Research Resources
 ## High speed
 - Making sense of mechanical vibration period with sub-millisecond accuracy using backscatter signals, [Mobicom 2016]()
 
-# Fusion
+# CV and RFID Fusion
 - Fusing RFID and computer vision for fine-grained object tracking, [INFOCOM, 2017]
 - Fusing rfid and computer vision for probabilistic tag localization, [IEEE RFID, 2014]
 - Camera-assisted localization of passive rfid labels, [IEEE IPIN,2012]
