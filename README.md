@@ -7,14 +7,15 @@ RFID Research Resources
 ## UWB
 - Minding the Billions: Ultra-wideband Localization for Deployed RFID Tags, [Mobicom 2017](www.mit.edu/~fadel/papers/RFind-paper.pdf)
 
+## High Accuracy
+- Backpos: High accuracy backscatter positioning system, [IEEE TMC 2016]
+- Tagoram: Real-time tracking of mobile RFID tags to high precision using COTS devices, [MobiCom 2014]()
+- Dude, where’s my card?: RFID positioning that works with multipath and non-line of sight, [SIGCOMM 2013]()
+
 ## Relative Location
 - HMRL: Relative Localization of RFID Tags with Static Devices, [SECON 2017](http://ieeexplore.ieee.org/document/7964944/)
 - Relative localization of RFID tags using spatial-temporal phase profilin, [NSDI 2015]()
 - OTrack: Order tracking for luggage in mobile RFID systems, [INFOCOM 2013]()
-
-## High Accuracy
-- Backpos: High accuracy backscatter positioning system, [IEEE TMC 2016]
-- Tagoram: Real-time tracking of mobile RFID tags to high precision using COTS devices, [MobiCom 2014]()
 
 ## High speed
 - Making sense of mechanical vibration period with sub-millisecond accuracy using backscatter signals, [Mobicom 2016]()
