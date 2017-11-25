@@ -37,7 +37,7 @@ RFID Research Resources
 - RF-IDraw: Virtual touch screen in the air using RF signals, [SIGCOMM 2014]()
 
 # Tech
-UWB
+## UWB
 - Minding the Billions: Ultra-wideband Localization for Deployed RFID Tags, [Mobicom 2017](www.mit.edu/~fadel/papers/RFind-paper.pdf)
-RSS
+## RSS
 - LANDMARC: Indoor Location Sensing Using Active RFID LIONELMm, [Wireless Networks, 2004]()
