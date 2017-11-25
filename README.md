@@ -40,4 +40,4 @@ RFID Research Resources
 UWB
 - Minding the Billions: Ultra-wideband Localization for Deployed RFID Tags, [Mobicom 2017](www.mit.edu/~fadel/papers/RFind-paper.pdf)
 RSS
-- LANDMARC: Indoor Location Sensing Using Active RFID LIONELM.[Wireless Networks, 2004](L. M. Ni, Y. Liu, Y. C. Lau, and A. P. Patil, “LANDMARC: Indoor location sensing using active RFID,” Wireless Networks, vol. 10, no. 6, pp. 701–710, 2004.)
+- LANDMARC: Indoor Location Sensing Using Active RFID LIONELMm, [Wireless Networks, 2004]()
