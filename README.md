@@ -37,6 +37,12 @@ RFID Research Resources
 - RF-IDraw: Virtual touch screen in the air using RF signals, [SIGCOMM 2014]()
 
 # Tech
+## POW
+- An Experimental Study of Passive UHF RFID System with Longer Communication Range, [APMC 2007]()
+- Power-Optimized Waveforms for Improving the Range and Reliability of RFID Systems, [IEEE RFID 2009]()
+- Survey of Range Improvement of Commercial RFID Tags With Power Optimized Waveforms, [IEEE RFID 2010]()
+- Extending the Interrogation Range of a Passive UHF RFID SystemWith an External Continuous Wave Transmitter, [TOIM](2010)
+
 ## UWB
 - Minding the Billions: Ultra-wideband Localization for Deployed RFID Tags, [Mobicom 2017](www.mit.edu/~fadel/papers/RFind-paper.pdf)
 ## RSS
