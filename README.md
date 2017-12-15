@@ -45,5 +45,9 @@ RFID Research Resources
 
 ## UWB
 - Minding the Billions: Ultra-wideband Localization for Deployed RFID Tags, [Mobicom 2017](www.mit.edu/~fadel/papers/RFind-paper.pdf)
+
 ## RSS
-- LANDMARC: Indoor Location Sensing Using Active RFID LIONELMm, [Wireless Networks, 2004]()
+- SpotON: An indoor 3D location sensing technology based on RF signal strength,[2000]()
+- LANDMARC:Indoor Location Sensing Using Active RFID LIONELMm, [Wireless Networks, 2004]()
+- VIRE: VIRE:Active RFID-based Localization Using Virtual Reference Elimination, [2007]()
+- Adaptive-Rssi:An Environmental-Adaptive Rssi Based Indoor Positioning Approach Using Rfid,[2010]()
